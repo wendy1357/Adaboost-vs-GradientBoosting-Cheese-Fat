@@ -12,4 +12,4 @@ Dataset yang digunakan dalam proyek ini adalah **"Canadian Cheese Directory"** y
 ## Diagram Alur Penelitian
 
 Berikut adalah alur kerja yang dilakukan dalam penelitian ini:
-![Diagram Alur Penelitian](assets/Alur Diagram.png)
+![Diagram Alur Penelitian](assets/Alur-Diagram.png)
